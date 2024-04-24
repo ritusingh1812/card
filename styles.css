@@ -1,0 +1,33 @@
+
+.outer{
+  border-radius: 25px;
+  border: 2px ridge;
+  height: 500px;
+  width:650px;
+  margin: 150px 200px 150px 400px;
+}
+.timer{
+  width:150px;
+ height: 50px;
+ top:50px;
+ right:50px;
+}
+.one{
+  height: 35px;
+  width:38px;
+  border-radius: 8px;
+  background-color: rgb(227, 197, 255);
+  color: #8844f5;
+  opacity: 60%;
+  padding: 3px;
+}
+hr {
+  border: none;
+  border-top: 3px dotted rgb(132, 72, 205);
+  color: #fff;
+  background-color: #fff;
+  height: 3px;
+  margin-left: 60px;
+  margin-right: 60px;
+
+}
